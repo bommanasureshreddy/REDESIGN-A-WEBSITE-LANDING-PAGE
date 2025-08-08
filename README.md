@@ -50,3 +50,7 @@ elements
 way 
 7. Trust Elements 
 → Customer reviews and ratings placed in visible but non-intrusive areas
+
+## OUTPUT
+
+![Image](https://github.com/user-attachments/assets/b426a37e-04c7-4d96-9fe8-4e7e55a93aa0)
